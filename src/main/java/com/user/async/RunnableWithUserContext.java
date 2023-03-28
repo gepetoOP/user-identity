@@ -1,6 +1,6 @@
 package com.user.async;
 
-import com.user.context.UserIdentityContext;
+import org.context.UserIdentityContext;
 
 public class RunnableWithUserContext implements Runnable {
     @Override

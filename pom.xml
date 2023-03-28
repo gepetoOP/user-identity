@@ -107,6 +107,11 @@
       <artifactId>reactor-core</artifactId>
       <version>3.5.4</version>
     </dependency>
+    <dependency>
+      <groupId>org.user.identity</groupId>
+      <artifactId>user-identity</artifactId>
+      <version>1.0-SNAPSHOT</version>
+    </dependency>
   </dependencies>
 
   <build>
